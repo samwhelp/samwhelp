@@ -26,6 +26,13 @@ Here are some ideas to get you started:
 | [samwhelp.github.io](https://samwhelp.github.io/book/) | [GitHub](https://github.com/samwhelp/samwhelp.github.io) |
 
 
+## System Modeling
+
+| Link | GitHub |
+| --- | --- |
+| [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling/) |
+
+
 ## Adjustment
 
 | Adjustment | GitHub |
