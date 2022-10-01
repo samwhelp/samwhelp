@@ -20,13 +20,14 @@ Here are some ideas to get you started:
 
 ## Samwhelp
 
-| Link |
-| --- |
-| [samwhelp](https://samwhelp.github.io/book/) |
+| Link | GitHub |
+| --- | --- |
+| samwhelp | [GitHub](https://github.com/samwhelp/samwhelp) |
+| [samwhelp.github.io](https://samwhelp.github.io/book/) | [GitHub](https://github.com/samwhelp/samwhelp.github.io) |
 
 
 ## Adjustment
 
-| Adjustment |
-| --- |
-| [XeroLinux Adjustment](https://github.com/samwhelp/xerolinux-adjustment) |
+| Adjustment | GitHub |
+| --- | --- |
+| [XeroLinux Adjustment](https://samwhelp.github.io/xerolinux-adjustment/) | [GitHub](https://github.com/samwhelp/xerolinux-adjustment) |
