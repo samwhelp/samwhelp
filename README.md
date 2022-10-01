@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 | Link |
 | --- |
-| [samwhelp](https://samwhelp.github.io/) |
+| [samwhelp](https://samwhelp.github.io/book/) |
