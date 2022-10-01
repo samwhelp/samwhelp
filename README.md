@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 | Link |
 | --- |
 | [samwhelp](https://samwhelp.github.io/book/) |
+
+
+| Adjustment |
+| --- |
+| [XeroLinux Adjustment](https://github.com/samwhelp/xerolinux-adjustment) |
