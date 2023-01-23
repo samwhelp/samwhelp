@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 
 | Adjustment | GitHub |
 | --- | --- |
-| [BigLinux Adjustment](https://samwhelp.github.io/biglinux-adjustment/) | [GitHub](https://github.com/samwhelp/biglinux-adjustment) |
-| [XeroLinux Adjustment](https://samwhelp.github.io/xerolinux-adjustment/) | [GitHub](https://github.com/samwhelp/xerolinux-adjustment) |
 | [Ezarcher Adjustment](https://samwhelp.github.io/ezarcher-adjustment/) | [GitHub](https://github.com/samwhelp/ezarcher-adjustment) |
 | [Archcraft Adjustment](https://samwhelp.github.io/archcraft-adjustment/) | [GitHub](https://github.com/samwhelp/archcraft-adjustment) |
 | [Mabox Adjustment](https://samwhelp.github.io/mabox-adjustment/) | [GitHub](https://github.com/samwhelp/mabox-adjustment) |
+| [BigLinux Adjustment](https://samwhelp.github.io/biglinux-adjustment/) | [GitHub](https://github.com/samwhelp/biglinux-adjustment) |
+| [XeroLinux Adjustment](https://samwhelp.github.io/xerolinux-adjustment/) | [GitHub](https://github.com/samwhelp/xerolinux-adjustment) |
 | [ArchLinux Adjustment](https://samwhelp.github.io/archlinux-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-adjustment) |
 | [Manjaro Adjustment](https://samwhelp.github.io/manjaro-adjustment/) | [GitHub](https://github.com/samwhelp/manjaro-adjustment) |
 | [Ubuntu Adjustment](https://samwhelp.github.io/ubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-adjustment) |
