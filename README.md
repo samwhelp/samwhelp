@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 | Link | GitHub |
 | --- | --- |
 | [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling/) |
+| [Keybind](https://samwhelp.github.io/system-modeling/read/en_us/quick-start) |  |
+
 
 
 ## Adjustment
