@@ -53,4 +53,11 @@ Here are some ideas to get you started:
 
 | Develop | GitHub |
 | --- | --- |
-| [note-about-menu-applet](hhttps://samwhelp.github.io/note-about-menu-applet/) | [GitHub](https://github.com/samwhelp/note-about-menu-applet) |
+| [note-about-menu-applet](https://samwhelp.github.io/note-about-menu-applet/) | [GitHub](https://github.com/samwhelp/note-about-menu-applet) |
+
+
+## Forum
+
+| Forum | GitHub |
+| --- | --- |
+| [demo-forum-case](https://samwhelp.github.io/demo-forum-case/) | [GitHub](https://github.com/samwhelp/demo-forum-case) |
