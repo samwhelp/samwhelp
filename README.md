@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 | [Keybind](https://samwhelp.github.io/system-modeling/read/en_us/quick-start) |  |
 
 
-
 ## Adjustment
 
 | Adjustment | GitHub |
@@ -48,3 +47,10 @@ Here are some ideas to get you started:
 | [Manjaro Adjustment](https://samwhelp.github.io/manjaro-adjustment/) | [GitHub](https://github.com/samwhelp/manjaro-adjustment) |
 | [Ubuntu Adjustment](https://samwhelp.github.io/ubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-adjustment) |
 | [Ubuntu Sway Adjustment](https://samwhelp.github.io/ubuntu-sway-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-sway-adjustment) |
+
+
+## Develop
+
+| Develop | GitHub |
+| --- | --- |
+| [note-about-menu-applet](hhttps://samwhelp.github.io/note-about-menu-applet/) | [GitHub](https://github.com/samwhelp/note-about-menu-applet) |
