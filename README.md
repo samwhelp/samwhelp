@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ## Archiso
 
-| Prject | GitHub |
+| Project | GitHub |
 | --- | --- |
 | [Neaybyos](https://samwhelp.github.io/nearbyos/) | [GitHub](https://github.com/samwhelp/nearbyos) |
 
