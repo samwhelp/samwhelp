@@ -26,6 +26,13 @@ Here are some ideas to get you started:
 | [samwhelp.github.io](https://samwhelp.github.io/book/) | [GitHub](https://github.com/samwhelp/samwhelp.github.io) |
 
 
+## Vimrc
+
+| Prototype |
+| --- |
+| [ivim](https://github.com/samwhelp/note-about-vim/tree/gh-pages/_demo/prototype/ivim) |
+
+
 ## System Modeling
 
 | Link | GitHub |
