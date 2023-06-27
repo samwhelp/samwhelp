@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 | Adjustment | GitHub |
 | --- | --- |
 | [Ezarcher Adjustment](https://samwhelp.github.io/ezarcher-adjustment/) | [GitHub](https://github.com/samwhelp/ezarcher-adjustment) |
+| [Debian Adjustment](https://samwhelp.github.io/debian-adjustment/) | [GitHub](https://github.com/samwhelp/debian-adjustment) |
 | [Archcraft Adjustment](https://samwhelp.github.io/archcraft-adjustment/) | [GitHub](https://github.com/samwhelp/archcraft-adjustment) |
 | [Mabox Adjustment](https://samwhelp.github.io/mabox-adjustment/) | [GitHub](https://github.com/samwhelp/mabox-adjustment) |
 | [BigLinux Adjustment](https://samwhelp.github.io/biglinux-adjustment/) | [GitHub](https://github.com/samwhelp/biglinux-adjustment) |
