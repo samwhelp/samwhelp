@@ -76,3 +76,13 @@ Here are some ideas to get you started:
 | Forum | GitHub |
 | --- | --- |
 | [demo-forum-case](https://samwhelp.github.io/demo-forum-case/) | [GitHub](https://github.com/samwhelp/demo-forum-case) |
+
+
+## Theme
+
+| Theme | GitHub |
+| --- | --- |
+| [rgaps-theme-collection](https://samwhelp.github.io/rgaps-theme-collection/) | [GitHub](https://github.com/samwhelp/rgaps-theme-collection) |
+| [gruvbox-theme-collection](https://samwhelp.github.io/gruvbox-theme-collection/) | [GitHub](https://github.com/samwhelp/gruvbox-theme-collection) |
+| [numix-theme-collection](https://samwhelp.github.io/numix-theme-collection/) | [GitHub](https://github.com/samwhelp/numix-theme-collection) |
+| [grub-theme-remix](https://samwhelp.github.io/grub-theme-remix/) | [GitHub](https://github.com/samwhelp/grub-theme-remix) |
