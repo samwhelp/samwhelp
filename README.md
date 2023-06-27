@@ -78,9 +78,9 @@ Here are some ideas to get you started:
 | [demo-forum-case](https://samwhelp.github.io/demo-forum-case/) | [GitHub](https://github.com/samwhelp/demo-forum-case) |
 
 
-## Theme
+## Theme Collection
 
-| Theme | GitHub |
+| Theme Collection | GitHub |
 | --- | --- |
 | [rgaps-theme-collection](https://samwhelp.github.io/rgaps-theme-collection/) | [GitHub](https://github.com/samwhelp/rgaps-theme-collection) |
 | [gruvbox-theme-collection](https://samwhelp.github.io/gruvbox-theme-collection/) | [GitHub](https://github.com/samwhelp/gruvbox-theme-collection) |
