@@ -33,6 +33,13 @@ Here are some ideas to get you started:
 | [ivim](https://github.com/samwhelp/note-about-vim/tree/gh-pages/_demo/prototype/ivim) |
 
 
+## Bashrc
+
+| Link | GitHub |
+| ---- | ------ |
+| [bashrc-enhance](https://samwhelp.github.io/bashrc-enhance/) | [GitHub](https://github.com/samwhelp/bashrc-enhance) |
+
+
 ## System Modeling
 
 | Link | GitHub |
