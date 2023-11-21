@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 | Develop | GitHub |
 | --- | --- |
 | [note-about-menu-applet](https://samwhelp.github.io/note-about-menu-applet/) | [GitHub](https://github.com/samwhelp/note-about-menu-applet) |
-| [skel-project-plan](https://github.com/samwhelp/skel-project-plan) | [GitHub](https://github.com/samwhelp/skel-project-plan) |
+| [skel-project-plan](https://samwhelp.github.io/skel-project-plan/) | [GitHub](https://github.com/samwhelp/skel-project-plan) |
 
 
 ## Tool
