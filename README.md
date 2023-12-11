@@ -109,6 +109,7 @@ Here are some ideas to get you started:
 | [gruvbox-theme-collection](https://samwhelp.github.io/gruvbox-theme-collection/) | [GitHub](https://github.com/samwhelp/gruvbox-theme-collection) |
 | [numix-theme-collection](https://samwhelp.github.io/numix-theme-collection/) | [GitHub](https://github.com/samwhelp/numix-theme-collection) |
 | [grub-theme-remix](https://samwhelp.github.io/grub-theme-remix/) | [GitHub](https://github.com/samwhelp/grub-theme-remix) |
+| [canta-icon-theme-remix](https://samwhelp.github.io/canta-icon-theme-remix/) | [GitHub](https://github.com/samwhelp/canta-icon-theme-remix) |
 
 
 ## Theme Factory
@@ -116,3 +117,4 @@ Here are some ideas to get you started:
 | Theme Factory | GitHub |
 | --- | --- |
 | [theme-factory-vimix](https://samwhelp.github.io/theme-factory-vimix/) | [GitHub](https://github.com/samwhelp/theme-factory-vimix) |
+| [theme-factory-canta](https://samwhelp.github.io/theme-factory-canta/) | [GitHub](https://github.com/samwhelp/theme-factory-canta) |
