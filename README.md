@@ -108,7 +108,14 @@ Here are some ideas to get you started:
 | [rgaps-theme-collection](https://samwhelp.github.io/rgaps-theme-collection/) | [GitHub](https://github.com/samwhelp/rgaps-theme-collection) |
 | [gruvbox-theme-collection](https://samwhelp.github.io/gruvbox-theme-collection/) | [GitHub](https://github.com/samwhelp/gruvbox-theme-collection) |
 | [numix-theme-collection](https://samwhelp.github.io/numix-theme-collection/) | [GitHub](https://github.com/samwhelp/numix-theme-collection) |
+
+
+## Theme Remix
+
+| Theme Remix | GitHub |
+| --- | --- |
 | [grub-theme-remix](https://samwhelp.github.io/grub-theme-remix/) | [GitHub](https://github.com/samwhelp/grub-theme-remix) |
+| [gruvbox-theme-remix](https://samwhelp.github.io/gruvbox-theme-remix/) | [GitHub](https://github.com/samwhelp/gruvbox-theme-remix) |
 | [canta-icon-theme-remix](https://samwhelp.github.io/canta-icon-theme-remix/) | [GitHub](https://github.com/samwhelp/canta-icon-theme-remix) |
 
 
