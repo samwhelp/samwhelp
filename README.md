@@ -101,6 +101,15 @@ Here are some ideas to get you started:
 | [demo-forum-case](https://samwhelp.github.io/demo-forum-case/) | [GitHub](https://github.com/samwhelp/demo-forum-case) |
 
 
+## Theme Note
+
+| Theme Note | GitHub |
+| --- | --- |
+| [note-about-theme](https://samwhelp.github.io/note-about-theme/) | [GitHub](https://github.com/samwhelp/note-about-theme) |
+| [note-about-grub](https://samwhelp.github.io/note-about-grub/) | [GitHub](https://github.com/samwhelp/note-about-grub) |
+| [note-about-sddm](https://samwhelp.github.io/note-about-sddm/) | [GitHub](https://github.com/samwhelp/note-about-sddm) |
+
+
 ## Theme Collection
 
 | Theme Collection | GitHub |
