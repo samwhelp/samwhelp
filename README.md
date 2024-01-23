@@ -68,15 +68,22 @@ Here are some ideas to get you started:
 
 | Adjustment | GitHub |
 | --- | --- |
-| [Kde Neon Adjustment](https://samwhelp.github.io/kde-neon-adjustment/) | [GitHub](https://github.com/samwhelp/kde-neon-adjustment) |
 | [Ubuntu Adjustment](https://samwhelp.github.io/ubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-adjustment) |
+| [Xubuntu Adjustment](https://samwhelp.github.io/xubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/xubuntu-adjustment) |
+| [Kubuntu Adjustment](https://samwhelp.github.io/kubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/kubuntu-adjustment) |
 | [Ubuntu Sway Adjustment](https://samwhelp.github.io/ubuntu-sway-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-sway-adjustment) |
+
+
+| Adjustment | GitHub |
+| --- | --- |
+| [Kde Neon Adjustment](https://samwhelp.github.io/kde-neon-adjustment/) | [GitHub](https://github.com/samwhelp/kde-neon-adjustment) |
 | [Linux Mint Adjustment](https://samwhelp.github.io/linuxmint-adjustment/) | [GitHub](https://github.com/samwhelp/linuxmint-adjustment) |
 | [Archcraft Adjustment](https://samwhelp.github.io/archcraft-adjustment/) | [GitHub](https://github.com/samwhelp/archcraft-adjustment) |
 | [Mabox Adjustment](https://samwhelp.github.io/mabox-adjustment/) | [GitHub](https://github.com/samwhelp/mabox-adjustment) |
 | [BigLinux Adjustment](https://samwhelp.github.io/biglinux-adjustment/) | [GitHub](https://github.com/samwhelp/biglinux-adjustment) |
 | [XeroLinux Adjustment](https://samwhelp.github.io/xerolinux-adjustment/) | [GitHub](https://github.com/samwhelp/xerolinux-adjustment) |
 | [Manjaro Adjustment](https://samwhelp.github.io/manjaro-adjustment/) | [GitHub](https://github.com/samwhelp/manjaro-adjustment) |
+
 
 
 
