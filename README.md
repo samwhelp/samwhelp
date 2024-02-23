@@ -120,6 +120,7 @@ Here are some ideas to get you started:
 | Tool | GitHub |
 | --- | --- |
 | [tool-initramfs-extract](https://samwhelp.github.io/tool-initramfs-extract/) | [GitHub](https://github.com/samwhelp/tool-initramfs-extract) |
+| [tool-lxqt-control](https://samwhelp.github.io/skel-project-plan/) | [GitHub](https://github.com/samwhelp/tool-lxqt-control) |
 
 
 ## Forum
