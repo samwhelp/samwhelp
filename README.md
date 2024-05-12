@@ -163,3 +163,25 @@ Here are some ideas to get you started:
 | --- | --- |
 | [theme-factory-vimix](https://samwhelp.github.io/theme-factory-vimix/) | [GitHub](https://github.com/samwhelp/theme-factory-vimix) |
 | [theme-factory-canta](https://samwhelp.github.io/theme-factory-canta/) | [GitHub](https://github.com/samwhelp/theme-factory-canta) |
+
+
+
+
+## Grub Theme / Glass Series
+
+| Base | Remix |
+| ---- | ----- |
+| [grub-theme-score](https://github.com/samwhelp/grub-theme-score) | [grub-theme-score-remix](https://github.com/samwhelp/grub-theme-score-remix) |
+| [grub-theme-glass](https://github.com/samwhelp/grub-theme-glass) | [grub-theme-glass-remix](https://github.com/samwhelp/grub-theme-glass-remix) |
+| [grub-theme-cover](https://github.com/samwhelp/grub-theme-cover) | [grub-theme-cover-remix](https://github.com/samwhelp/grub-theme-cover-remix) |
+| [grub-theme-banner](https://github.com/samwhelp/grub-theme-banner) | [grub-theme-banner-remix](https://github.com/samwhelp/grub-theme-banner-remix) |
+| [grub-theme-cross](https://github.com/samwhelp/grub-theme-cross) | [grub-theme-cross-remix](https://github.com/samwhelp/grub-theme-cross-remix) |
+
+
+
+
+## Grub Theme / Image Creation
+
+| Link | GitHub |
+| ---- | ------ |
+| [demo-grub-theme-image-creation](https://samwhelp.github.io/demo-grub-theme-image-creation/) | [GitHub](https://github.com/samwhelp/demo-grub-theme-image-creation) |
