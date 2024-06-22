@@ -89,6 +89,24 @@ Here are some ideas to get you started:
 
 
 
+
+| Adjustment | GitHub |
+| --- | --- |
+| [Fedora Adjustment](https://samwhelp.github.io/fedora-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-adjustment) |
+| [Fedora Xfce Adjustment](https://samwhelp.github.io/fedora-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-xfce-adjustment) |
+| [Fedora Lxqt Adjustment](https://samwhelp.github.io/fedora-lxqt-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-lxqt-adjustment) |
+| [Fedora Kde Plasma Adjustment](https://samwhelp.github.io/fedora-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-kde-plasma-adjustment) |
+| [Fedora Budgie Adjustment](https://samwhelp.github.io/fedora-budgie-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-budgie-adjustment) |
+| [Fedora Gnome Shell Adjustment](https://samwhelp.github.io/fedora-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-gnome-shell-adjustment) |
+| [Fedora Wayfire Adjustment](https://samwhelp.github.io/fedora-wayfire-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-wayfire-adjustment) |
+| [Fedora Labwc Adjustment](https://samwhelp.github.io/fedora-labwc-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-labwc-adjustment) |
+| [Fedora Hyprland Adjustment](https://samwhelp.github.io/fedora-hyprland-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-hyprland-adjustment) |
+| [Fedora Sway Adjustment](https://samwhelp.github.io/fedora-sway-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-sway-adjustment) |
+| [Fedora River Adjustment](https://samwhelp.github.io/fedora-river-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-river-adjustment) |
+
+
+
+
 | Adjustment | GitHub |
 | --- | --- |
 | [BunsenLabs Adjustment](https://samwhelp.github.io/bunsenlabs-adjustment/) | [GitHub](https://github.com/samwhelp/bunsenlabs-adjustment) |
