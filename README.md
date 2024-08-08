@@ -18,12 +18,32 @@ Here are some ideas to get you started:
 -->
 
 
+* [Samwhelp](#samwhelp)
+* [Vimrc](#vimrc)
+* [Bashrc](#bashrc)
+* [System Modeling](#system-modeling)
+* [Archiso](#archiso)
+* [ISO Profile](#iso-profile)
+* [Adjustment](#adjustment)
+* [Develop](#develop)
+* [Tool](#Tool)
+* [Theme Note](#theme-note)
+* [Theme Collection](#theme-collection)
+* [Theme Remix](#theme-remix)
+* [Theme Factory](#theme-factory)
+* [Theme Remix](#theme-remix)
+* [Grub Theme](#grub-theme)
+
+
+
 ## Samwhelp
 
 | Link | GitHub |
 | --- | --- |
 | samwhelp | [GitHub](https://github.com/samwhelp/samwhelp) |
 | [samwhelp.github.io](https://samwhelp.github.io/book/) | [GitHub](https://github.com/samwhelp/samwhelp.github.io) |
+
+
 
 
 ## Vimrc
@@ -33,11 +53,15 @@ Here are some ideas to get you started:
 | [ivim](https://github.com/samwhelp/note-about-vim/tree/gh-pages/_demo/prototype/ivim) |
 
 
+
+
 ## Bashrc
 
 | Link | GitHub |
 | ---- | ------ |
 | [bashrc-enhance](https://samwhelp.github.io/bashrc-enhance/) | [GitHub](https://github.com/samwhelp/bashrc-enhance) |
+
+
 
 
 ## System Modeling
@@ -55,6 +79,21 @@ Here are some ideas to get you started:
 | Project | GitHub |
 | --- | --- |
 | [Neaybyos](https://samwhelp.github.io/nearbyos/) | [GitHub](https://github.com/samwhelp/nearbyos) |
+
+
+
+
+## ISO Profile
+
+| ISO Profile |
+| --- |
+| [eznixos-adjustment-xfce-gruvbox](https://github.com/samwhelp/eznixos-adjustment-iso-profile/tree/main/debian-12/prototype/locale/en_us/eznixos-adjustment-xfce) |
+| [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment-iso-profile/tree/main/debian-12/start/locale/en_us/eznixos-adjustment-xfce) |
+| [eznixos-adjustment-kde-plasma](https://github.com/samwhelp/eznixos-adjustment-iso-profile/tree/main/debian-12/start/locale/en_us/eznixos-adjustment-kde-plasma) |
+| [eznixos-adjustment-gnome-shell](https://github.com/samwhelp/eznixos-adjustment-iso-profile/tree/main/debian-12/start/locale/en_us/eznixos-adjustment-gnome-shell) |
+| [eznixos-adjustment-mate](https://github.com/samwhelp/eznixos-adjustment-iso-profile/tree/main/debian-12/start/locale/en_us/eznixos-adjustment-mate) |
+| [eznixos-adjustment-cinnamon](https://github.com/samwhelp/eznixos-adjustment-iso-profile/tree/main/debian-12/start/locale/en_us/eznixos-adjustment-cinnamon) |
+| [eznixos-adjustment-lxqt-with-openbox](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start-lxqt/tree/main/debian-12/locale/en_us/eznixos-adjustment-lxqt-with-openbox) |
 
 
 
@@ -133,6 +172,8 @@ Here are some ideas to get you started:
 | [skel-project-plan](https://samwhelp.github.io/skel-project-plan/) | [GitHub](https://github.com/samwhelp/skel-project-plan) |
 
 
+
+
 ## Tool
 
 | Tool | GitHub |
@@ -141,11 +182,15 @@ Here are some ideas to get you started:
 | [tool-lxqt-control](https://samwhelp.github.io/tool-lxqt-control/) | [GitHub](https://github.com/samwhelp/tool-lxqt-control) |
 
 
+
+
 ## Forum
 
 | Forum | GitHub |
 | --- | --- |
 | [demo-forum-case](https://samwhelp.github.io/demo-forum-case/) | [GitHub](https://github.com/samwhelp/demo-forum-case) |
+
+
 
 
 ## Theme Note
@@ -157,6 +202,8 @@ Here are some ideas to get you started:
 | [note-about-sddm](https://samwhelp.github.io/note-about-sddm/) | [GitHub](https://github.com/samwhelp/note-about-sddm) |
 
 
+
+
 ## Theme Collection
 
 | Theme Collection | GitHub |
@@ -164,6 +211,8 @@ Here are some ideas to get you started:
 | [rgaps-theme-collection](https://samwhelp.github.io/rgaps-theme-collection/) | [GitHub](https://github.com/samwhelp/rgaps-theme-collection) |
 | [gruvbox-theme-collection](https://samwhelp.github.io/gruvbox-theme-collection/) | [GitHub](https://github.com/samwhelp/gruvbox-theme-collection) |
 | [numix-theme-collection](https://samwhelp.github.io/numix-theme-collection/) | [GitHub](https://github.com/samwhelp/numix-theme-collection) |
+
+
 
 
 ## Theme Remix
@@ -175,6 +224,8 @@ Here are some ideas to get you started:
 | [canta-icon-theme-remix](https://samwhelp.github.io/canta-icon-theme-remix/) | [GitHub](https://github.com/samwhelp/canta-icon-theme-remix) |
 
 
+
+
 ## Theme Factory
 
 | Theme Factory | GitHub |
@@ -184,6 +235,8 @@ Here are some ideas to get you started:
 
 
 
+
+## Grub Theme
 
 ## Grub Theme / Glass Series
 
