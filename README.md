@@ -125,7 +125,7 @@ Here are some ideas to get you started:
 | [Ubuntu Gnome Flashback Adjustment](https://samwhelp.github.io/ubuntu-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-gnome-shell-adjustment) |
 | [Ubuntu Sway Adjustment](https://samwhelp.github.io/ubuntu-sway-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-sway-adjustment) |
 | [Linux Mint Adjustment](https://samwhelp.github.io/linuxmint-adjustment/) | [GitHub](https://github.com/samwhelp/linuxmint-adjustment) |
-| [Popos Cosmic Adjustment](https://samwhelp.github.io/popos-comic-adjustment/) | [GitHub](https://github.com/samwhelp/popos-comic-adjustment) |
+| [Popos Cosmic Adjustment](https://samwhelp.github.io/popos-cosmic-adjustment/) | [GitHub](https://github.com/samwhelp/popos-cosmic-adjustment) |
 
 
 
@@ -143,6 +143,7 @@ Here are some ideas to get you started:
 | [Fedora Hyprland Adjustment](https://samwhelp.github.io/fedora-hyprland-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-hyprland-adjustment) |
 | [Fedora Sway Adjustment](https://samwhelp.github.io/fedora-sway-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-sway-adjustment) |
 | [Fedora River Adjustment](https://samwhelp.github.io/fedora-river-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-river-adjustment) |
+| [Fedora Cosmic Adjustment](https://samwhelp.github.io/fedora-cosmic-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-cosmic-adjustment) |
 
 
 
