@@ -90,6 +90,17 @@ Here are some ideas to get you started:
 | [debian-iso-builder-start](https://github.com/samwhelp/debian-iso-builder-start) |
 
 
+| Lika OS / Live Build Config |
+| --------------------------- |
+| [lika-live-build-config](https://github.com/samwhelp/lika-live-build-config) |
+| [lika-live-build-respin-xfce](https://github.com/samwhelp/lika-live-build-respin-xfce) |
+| [lika-live-build-respin-kde](https://github.com/samwhelp/lika-live-build-respin-kde) |
+| [lika-live-build-respin-lxqt](https://github.com/samwhelp/lika-live-build-respin-lxqt) |
+| [lika-live-build-respin-mate](https://github.com/samwhelp/lika-live-build-respin-mate) |
+| [lika-live-build-respin-cinnamon](https://github.com/samwhelp/lika-live-build-respin-cinnamon) |
+| [lika-live-build-respin-gnome](https://github.com/samwhelp/lika-live-build-respin-gnome) |
+
+
 | ISO Profile |
 | ----------- |
 | [eznixos-adjustment-xfce-gruvbox](https://github.com/samwhelp/eznixos-adjustment-iso-profile-prototype/tree/main/debian-12/locale/en_us/eznixos-adjustment-xfce) |
