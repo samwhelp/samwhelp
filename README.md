@@ -99,6 +99,16 @@ Here are some ideas to get you started:
 | [lika-live-build-respin-mate](https://github.com/samwhelp/lika-live-build-respin-mate) |
 | [lika-live-build-respin-cinnamon](https://github.com/samwhelp/lika-live-build-respin-cinnamon) |
 | [lika-live-build-respin-gnome](https://github.com/samwhelp/lika-live-build-respin-gnome) |
+| [lika-live-build-respin-openbox](https://samwhelp.github.io/lika-live-build-respin-openbox/) | [GitHub](https://github.com/samwhelp/lika-live-build-respin-openbox) |
+| [lika-live-build-respin-bspwm](https://samwhelp.github.io/lika-live-build-respin-bspwm/) | [GitHub](https://github.com/samwhelp/lika-live-build-respin-bspwm) |
+| [lika-live-build-respin-i3](https://samwhelp.github.io/lika-live-build-respin-i3/) | [GitHub](https://github.com/samwhelp/lika-live-build-respin-i3) |
+| [lika-live-build-respin-herbstluftwm](https://samwhelp.github.io/lika-live-build-respin-herbstluftwm/) | [GitHub](https://github.com/samwhelp/lika-live-build-respin-herbstluftwm) |
+
+
+| Link | GitHub |
+| ---- | ------ |
+| [lika-live-build-respin-lxqt-with-kwin](https://samwhelp.github.io/lika-live-build-respin-lxqt-with-kwin/) | [GitHub](https://github.com/samwhelp/lika-live-build-respin-lxqt-with-kwin) |
+| [lika-live-build-respin-xfce-with-kwin](https://samwhelp.github.io/lika-live-build-respin-xfce-with-kwin/) | [GitHub](https://github.com/samwhelp/lika-live-build-respin-xfce-with-kwin) |
 
 
 | ISO Profile |
