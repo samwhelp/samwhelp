@@ -105,8 +105,8 @@ Here are some ideas to get you started:
 | [lika-live-build-respin-herbstluftwm](https://github.com/samwhelp/lika-live-build-respin-herbstluftwm) |
 
 
-| Link | GitHub |
-| ---- | ------ |
+| Lika OS / Live Build Config |
+| --------------------------- |
 | [lika-live-build-respin-lxqt-with-kwin](https://github.com/samwhelp/lika-live-build-respin-lxqt-with-kwin) |
 | [lika-live-build-respin-xfce-with-kwin](https://github.com/samwhelp/lika-live-build-respin-xfce-with-kwin) |
 
