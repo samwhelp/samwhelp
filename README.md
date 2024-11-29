@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 | Project | GitHub |
 | --- | --- |
-| [Neaybyos](https://samwhelp.github.io/nearbyos/) | [GitHub](https://github.com/samwhelp/nearbyos) |
+| [Nearbyos](https://samwhelp.github.io/nearbyos/) | [GitHub](https://github.com/samwhelp/nearbyos) |
 
 
 
