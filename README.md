@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 * [Vimrc](#vimrc)
 * [Bashrc](#bashrc)
 * [System Modeling](#system-modeling)
+* [Recipe](#recipe)
 * [Archiso](#archiso)
 * [ISO Profile](#iso-profile)
 * [Adjustment](#adjustment)
@@ -74,6 +75,15 @@ Here are some ideas to get you started:
 
 
 
+## Recipe
+
+| Recipe |
+| ------ |
+| [deb-recipe](https://github.com/samwhelp/deb-recipe) |
+
+
+
+
 ## Archiso
 
 | Project | GitHub |
@@ -88,6 +98,12 @@ Here are some ideas to get you started:
 | ISO Builder |
 | ----------- |
 | [debian-iso-builder-start](https://github.com/samwhelp/debian-iso-builder-start) |
+| [gxde-iso-builder-enhance](https://github.com/samwhelp/gxde-iso-builder-enhance) |
+
+
+| Lingmo OS / Live Build Config |
+| ----------------------------- |
+| [lingmo-live-build-config-enhance](https://github.com/samwhelp/lingmo-live-build-config-enhance) |
 
 
 | Lika OS / Live Build Config |
