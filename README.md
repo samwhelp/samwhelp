@@ -80,6 +80,7 @@ Here are some ideas to get you started:
 | Recipe |
 | ------ |
 | [deb-recipe](https://github.com/samwhelp/deb-recipe) |
+| [deb-coffee](https://github.com/samwhelp/deb-coffee) |
 
 
 
