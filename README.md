@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 * [Vimrc](#vimrc)
 * [Bashrc](#bashrc)
 * [System Modeling](#system-modeling)
-* [Recipe](#recipe)
+* [Debian Packaging](#debian-packaging)
 * [Archiso](#archiso)
 * [ISO Profile](#iso-profile)
 * [Adjustment](#adjustment)
@@ -75,10 +75,10 @@ Here are some ideas to get you started:
 
 
 
-## Recipe
+## Debian Packaging
 
-| Recipe |
-| ------ |
+| Debian Packaging |
+| ---------------- |
 | [deb-recipe](https://github.com/samwhelp/deb-recipe) |
 | [deb-coffee](https://github.com/samwhelp/deb-coffee) |
 
