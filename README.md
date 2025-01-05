@@ -102,6 +102,12 @@ Here are some ideas to get you started:
 | [gxde-iso-builder-enhance](https://github.com/samwhelp/gxde-iso-builder-enhance) |
 
 
+| ISO Remix |
+| ----------- |
+| [demo-ubuntu-iso-remix](https://github.com/samwhelp/demo-ubuntu-iso-remix) |
+| [demo-debian-iso-remix](https://github.com/samwhelp/demo-debian-iso-remix) |
+
+
 | Lingmo OS / Live Build Config |
 | ----------------------------- |
 | [lingmo-live-build-config-enhance](https://github.com/samwhelp/lingmo-live-build-config-enhance) |
