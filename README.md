@@ -132,6 +132,8 @@ Here are some ideas to get you started:
 | --------------------------- |
 | [lika-live-build-respin-lxqt-with-kwin](https://github.com/samwhelp/lika-live-build-respin-lxqt-with-kwin) |
 | [lika-live-build-respin-xfce-with-kwin](https://github.com/samwhelp/lika-live-build-respin-xfce-with-kwin) |
+| [lika-live-build-respin-mate-with-kwin](https://github.com/samwhelp/lika-live-build-respin-mate-with-kwin) |
+| [lika-live-build-respin-mate-with-compiz](https://github.com/samwhelp/lika-live-build-respin-mate-with-compiz) |
 
 
 | ISO Profile |
