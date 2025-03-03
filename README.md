@@ -123,6 +123,7 @@ Here are some ideas to get you started:
 | [lika-live-build-respin-cinnamon](https://github.com/samwhelp/lika-live-build-respin-cinnamon) |
 | [lika-live-build-respin-gnome](https://github.com/samwhelp/lika-live-build-respin-gnome) |
 | [lika-live-build-respin-openbox](https://github.com/samwhelp/lika-live-build-respin-openbox) |
+| [lika-live-build-respin-fluxbox](https://github.com/samwhelp/lika-live-build-respin-fluxbox) |
 | [lika-live-build-respin-bspwm](https://github.com/samwhelp/lika-live-build-respin-bspwm) |
 | [lika-live-build-respin-i3](https://github.com/samwhelp/lika-live-build-respin-i3) |
 | [lika-live-build-respin-herbstluftwm](https://github.com/samwhelp/lika-live-build-respin-herbstluftwm) |
