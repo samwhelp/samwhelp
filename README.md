@@ -176,6 +176,7 @@ Here are some ideas to get you started:
 | [Ubuntu Gnome Flashback Adjustment](https://samwhelp.github.io/ubuntu-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-gnome-shell-adjustment) |
 | [Ubuntu Sway Adjustment](https://samwhelp.github.io/ubuntu-sway-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-sway-adjustment) |
 | [Linux Mint Adjustment](https://samwhelp.github.io/linuxmint-adjustment/) | [GitHub](https://github.com/samwhelp/linuxmint-adjustment) |
+| [Elementary OS Adjustment](https://samwhelp.github.io/elementary-os-adjustment/) | [GitHub](https://github.com/samwhelp/elementary-os-adjustment) |
 | [Popos Cosmic Adjustment](https://samwhelp.github.io/popos-cosmic-adjustment/) | [GitHub](https://github.com/samwhelp/popos-cosmic-adjustment) |
 
 
