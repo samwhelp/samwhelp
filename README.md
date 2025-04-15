@@ -150,13 +150,13 @@ Here are some ideas to get you started:
 
 | Ezarcher / ISO Profile |
 | ---------------------- |
-| [ezarcher-live-build-config-respin-xfce](https://github.com/samwhelp/ezarcher-live-build-config-respin-xfce) |
-| [ezarcher-live-build-config-respin-kde-plasma](https://github.com/samwhelp/ezarcher-live-build-config-respin-kde-plasma) |
-| [ezarcher-live-build-config-respin-gnome-shell](https://github.com/samwhelp/ezarcher-live-build-config-respin-gnome-shell) |
-| [ezarcher-live-build-config-respin-mate](https://github.com/samwhelp/ezarcher-live-build-config-respin-mate) |
-| [ezarcher-live-build-config-respin-cinnamon](https://github.com/samwhelp/ezarcher-live-build-config-respin-cinnamon) |
-| [ezarcher-live-build-config-respin-lxqt](https://github.com/samwhelp/ezarcher-live-build-config-respin-lxqt) |
-| [ezarcher-live-build-config-respin-lxde](https://github.com/samwhelp/ezarcher-live-build-config-respin-lxde) |
+| [ezarcher-live-build-respin-xfce](https://github.com/samwhelp/ezarcher-live-build-respin-xfce) |
+| [ezarcher-live-build-respin-kde-plasma](https://github.com/samwhelp/ezarcher-live-build-respin-kde-plasma) |
+| [ezarcher-live-build-respin-gnome-shell](https://github.com/samwhelp/ezarcher-live-build-respin-gnome-shell) |
+| [ezarcher-live-build-respin-mate](https://github.com/samwhelp/ezarcher-live-build-respin-mate) |
+| [ezarcher-live-build-respin-cinnamon](https://github.com/samwhelp/ezarcher-live-build-respin-cinnamon) |
+| [ezarcher-live-build-respin-lxqt](https://github.com/samwhelp/ezarcher-live-build-respin-lxqt) |
+| [ezarcher-live-build-respin-lxde](https://github.com/samwhelp/ezarcher-live-build-respin-lxde) |
 
 
 
