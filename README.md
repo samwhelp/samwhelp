@@ -137,8 +137,8 @@ Here are some ideas to get you started:
 | [lika-live-build-respin-mate-with-compiz](https://github.com/samwhelp/lika-live-build-respin-mate-with-compiz) |
 
 
-| ISO Profile |
-| ----------- |
+| Eznixos / ISO Profile |
+| --------------------- |
 | [eznixos-adjustment-xfce-gruvbox](https://github.com/samwhelp/eznixos-adjustment-iso-profile-prototype/tree/main/debian-12/locale/en_us/eznixos-adjustment-xfce) |
 | [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/main/debian-12/locale/en_us/eznixos-adjustment-xfce) |
 | [eznixos-adjustment-kde-plasma](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/main/debian-12/locale/en_us/eznixos-adjustment-kde-plasma) |
@@ -146,6 +146,17 @@ Here are some ideas to get you started:
 | [eznixos-adjustment-mate](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/main/debian-12/locale/en_us/eznixos-adjustment-mate) |
 | [eznixos-adjustment-cinnamon](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/main/debian-12/locale/en_us/eznixos-adjustment-cinnamon) |
 | [eznixos-adjustment-lxqt-with-openbox](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start-lxqt/tree/main/debian-12/locale/en_us/eznixos-adjustment-lxqt-with-openbox) |
+
+
+| Ezarcher / ISO Profile |
+| ---------------------- |
+| [ezarcher-live-build-config-respin-xfce](https://github.com/samwhelp/ezarcher-live-build-config-respin-xfce) |
+| [ezarcher-live-build-config-respin-kde-plasma](https://github.com/samwhelp/ezarcher-live-build-config-respin-kde-plasma) |
+| [ezarcher-live-build-config-respin-gnome-shell](https://github.com/samwhelp/ezarcher-live-build-config-respin-gnome-shell) |
+| [ezarcher-live-build-config-respin-mate](https://github.com/samwhelp/ezarcher-live-build-config-respin-mate) |
+| [ezarcher-live-build-config-respin-cinnamon](https://github.com/samwhelp/ezarcher-live-build-config-respin-cinnamon) |
+| [ezarcher-live-build-config-respin-lxqt](https://github.com/samwhelp/ezarcher-live-build-config-respin-lxqt) |
+| [ezarcher-live-build-config-respin-lxde](https://github.com/samwhelp/ezarcher-live-build-config-respin-lxde) |
 
 
 
