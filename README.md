@@ -190,6 +190,7 @@ Here are some ideas to get you started:
 | [Linux Mint Adjustment](https://samwhelp.github.io/linuxmint-adjustment/) | [GitHub](https://github.com/samwhelp/linuxmint-adjustment) |
 | [Elementary OS Adjustment](https://samwhelp.github.io/elementary-os-adjustment/) | [GitHub](https://github.com/samwhelp/elementary-os-adjustment) |
 | [Popos Cosmic Adjustment](https://samwhelp.github.io/popos-cosmic-adjustment/) | [GitHub](https://github.com/samwhelp/popos-cosmic-adjustment) |
+| [AnduinOS Adjustment](https://samwhelp.github.io/anduinos-adjustment/) | [GitHub](https://github.com/samwhelp/anduinos-adjustment) |
 
 
 
