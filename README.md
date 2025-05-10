@@ -114,7 +114,7 @@ Here are some ideas to get you started:
 | [lingmo-live-build-config-enhance](https://github.com/samwhelp/lingmo-live-build-config-enhance) |
 
 
-| EndeavourOS ISO / Live Build Config |
+| EndeavourOS / Live Build Config |
 | ----------------------------------- |
 | [endeavouros-live-build-config-remix](https://github.com/samwhelp/endeavouros-live-build-config-remix) |
 | [endeavouros-live-build-config-refactoring](https://github.com/samwhelp/endeavouros-live-build-config-refactoring) |
