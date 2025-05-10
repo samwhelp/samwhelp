@@ -100,6 +100,7 @@ Here are some ideas to get you started:
 | ----------- |
 | [debian-iso-builder-start](https://github.com/samwhelp/debian-iso-builder-start) |
 | [gxde-iso-builder-enhance](https://github.com/samwhelp/gxde-iso-builder-enhance) |
+| [anduinos-iso-builder-remix](https://github.com/samwhelp/anduinos-iso-builder-remix) |
 
 
 | ISO Remix |
@@ -111,6 +112,12 @@ Here are some ideas to get you started:
 | Lingmo OS / Live Build Config |
 | ----------------------------- |
 | [lingmo-live-build-config-enhance](https://github.com/samwhelp/lingmo-live-build-config-enhance) |
+
+
+| EndeavourOS ISO / Live Build Config |
+| ----------------------------------- |
+| [endeavouros-live-build-config-remix](https://github.com/samwhelp/endeavouros-live-build-config-remix) |
+| [endeavouros-live-build-config-refactoring](https://github.com/samwhelp/endeavouros-live-build-config-refactoring) |
 
 
 | Lika OS / Live Build Config |
