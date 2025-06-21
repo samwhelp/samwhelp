@@ -102,6 +102,7 @@ Here are some ideas to get you started:
 | [gxde-iso-builder-enhance](https://github.com/samwhelp/gxde-iso-builder-enhance) |
 | [anduinos-iso-builder-remix](https://github.com/samwhelp/anduinos-iso-builder-remix) |
 | [ubuntu-iso-builder-template](https://github.com/samwhelp/ubuntu-iso-builder-template) |
+| [debian-iso-builder-template](https://github.com/samwhelp/debian-iso-builder-template) |
 
 
 | ISO Remix |
