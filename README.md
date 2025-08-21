@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 ## Kde Resource
 
 | Kde Resource |
-| --- |
+| ------------ |
 | [kde-plasma-layout-templates](https://github.com/samwhelp/kde-plasma-layout-templates) |
 | [kde-plasma-look-and-feel](https://github.com/samwhelp/kde-plasma-look-and-feel) |
 | [kde-plasma-layout-switch](https://github.com/samwhelp/kde-plasma-layout-switch) |
