@@ -144,6 +144,12 @@ Here are some ideas to get you started:
 | [ubuntu-iso-builder-respin-mate](https://github.com/samwhelp/ubuntu-iso-builder-respin-mate) |
 | [ubuntu-iso-builder-respin-cinnamon](https://github.com/samwhelp/ubuntu-iso-builder-respin-cinnamon) |
 | [ubuntu-iso-builder-respin-budgie](https://github.com/samwhelp/ubuntu-iso-builder-respin-budgie) |
+| [ubuntu-iso-builder-respin-openbox](https://github.com/samwhelp/ubuntu-iso-builder-respin-openbox) |
+| [ubuntu-iso-builder-respin-fluxbox](https://github.com/samwhelp/ubuntu-iso-builder-respin-fluxbox) |
+| [ubuntu-iso-builder-respin-jwm](https://github.com/samwhelp/ubuntu-iso-builder-respin-jwm) |
+| [ubuntu-iso-builder-respin-bspwm](https://github.com/samwhelp/ubuntu-iso-builder-respin-bspwm) |
+| [ubuntu-iso-builder-respin-i3wm](https://github.com/samwhelp/ubuntu-iso-builder-respin-i3wm) |
+| [ubuntu-iso-builder-respin-herbstluftwm](https://github.com/samwhelp/ubuntu-iso-builder-respin-herbstluftwm) |
 
 
 | Debian ISO Builder |
@@ -155,7 +161,12 @@ Here are some ideas to get you started:
 | [debian-iso-builder-respin-mate](https://github.com/samwhelp/debian-iso-builder-respin-mate) |
 | [debian-iso-builder-respin-cinnamon](https://github.com/samwhelp/debian-iso-builder-respin-cinnamon) |
 | [debian-iso-builder-respin-budgie](https://github.com/samwhelp/debian-iso-builder-respin-budgie) |
-
+| [debian-iso-builder-respin-openbox](https://github.com/samwhelp/debian-iso-builder-respin-openbox) |
+| [debian-iso-builder-respin-fluxbox](https://github.com/samwhelp/debian-iso-builder-respin-fluxbox) |
+| [debian-iso-builder-respin-jwm](https://github.com/samwhelp/debian-iso-builder-respin-jwm) |
+| [debian-iso-builder-respin-bspwm](https://github.com/samwhelp/debian-iso-builder-respin-bspwm) |
+| [debian-iso-builder-respin-i3wm](https://github.com/samwhelp/debian-iso-builder-respin-i3wm) |
+| [debian-iso-builder-respin-herbstluftwm](https://github.com/samwhelp/debian-iso-builder-respin-herbstluftwm) |
 
 
 | Lika OS / Live Build Config |
@@ -169,6 +180,7 @@ Here are some ideas to get you started:
 | [lika-live-build-respin-gnome](https://github.com/samwhelp/lika-live-build-respin-gnome) |
 | [lika-live-build-respin-openbox](https://github.com/samwhelp/lika-live-build-respin-openbox) |
 | [lika-live-build-respin-fluxbox](https://github.com/samwhelp/lika-live-build-respin-fluxbox) |
+| [lika-live-build-respin-jwm](https://github.com/samwhelp/lika-live-build-respin-jwm) |
 | [lika-live-build-respin-bspwm](https://github.com/samwhelp/lika-live-build-respin-bspwm) |
 | [lika-live-build-respin-i3](https://github.com/samwhelp/lika-live-build-respin-i3) |
 | [lika-live-build-respin-herbstluftwm](https://github.com/samwhelp/lika-live-build-respin-herbstluftwm) |
