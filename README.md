@@ -150,6 +150,10 @@ Here are some ideas to get you started:
 | [ubuntu-iso-builder-respin-bspwm](https://github.com/samwhelp/ubuntu-iso-builder-respin-bspwm) |
 | [ubuntu-iso-builder-respin-i3wm](https://github.com/samwhelp/ubuntu-iso-builder-respin-i3wm) |
 | [ubuntu-iso-builder-respin-herbstluftwm](https://github.com/samwhelp/ubuntu-iso-builder-respin-herbstluftwm) |
+| [ubuntu-iso-builder-respin-hyprland](https://github.com/samwhelp/ubuntu-iso-builder-respin-hyprland) |
+| [ubuntu-iso-builder-respin-sway](https://github.com/samwhelp/ubuntu-iso-builder-respin-sway) |
+| [ubuntu-iso-builder-respin-labwc](https://github.com/samwhelp/ubuntu-iso-builder-respin-labwc) |
+| [ubuntu-iso-builder-respin-wayfire](https://github.com/samwhelp/ubuntu-iso-builder-respin-wayfire) |
 
 
 | Debian ISO Builder |
@@ -167,6 +171,9 @@ Here are some ideas to get you started:
 | [debian-iso-builder-respin-bspwm](https://github.com/samwhelp/debian-iso-builder-respin-bspwm) |
 | [debian-iso-builder-respin-i3wm](https://github.com/samwhelp/debian-iso-builder-respin-i3wm) |
 | [debian-iso-builder-respin-herbstluftwm](https://github.com/samwhelp/debian-iso-builder-respin-herbstluftwm) |
+| [debian-iso-builder-respin-sway](https://github.com/samwhelp/debian-iso-builder-respin-sway) |
+| [debian-iso-builder-respin-labwc](https://github.com/samwhelp/debian-iso-builder-respin-labwc) |
+| [debian-iso-builder-respin-wayfire](https://github.com/samwhelp/debian-iso-builder-respin-wayfire) |
 
 
 | Lika OS / Live Build Config |
