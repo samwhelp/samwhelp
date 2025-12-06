@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ## Samwhelp
 
 | Link | GitHub |
-| --- | --- |
+| ---- | ------ |
 | samwhelp | [GitHub](https://github.com/samwhelp/samwhelp) |
 | [samwhelp.github.io](https://samwhelp.github.io/book/) | [GitHub](https://github.com/samwhelp/samwhelp.github.io) |
 
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ## Vimrc
 
 | Prototype |
-| --- |
+| --------- |
 | [ivim](https://github.com/samwhelp/note-about-vim/tree/gh-pages/_demo/prototype/ivim) |
 
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 ## System Modeling
 
 | Link | GitHub |
-| --- | --- |
+| ---- | ------ |
 | [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling/) |
 | [Keybind](https://samwhelp.github.io/system-modeling/read/en_us/quick-start) |  |
 
@@ -101,7 +101,7 @@ Here are some ideas to get you started:
 ## Archiso
 
 | Project | GitHub |
-| --- | --- |
+| ------- | ------ |
 | [Nearbyos](https://samwhelp.github.io/nearbyos/) | [GitHub](https://github.com/samwhelp/nearbyos) |
 
 
@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 
 
 | ISO Remix |
-| ----------- |
+| --------- |
 | [demo-ubuntu-iso-remix](https://github.com/samwhelp/demo-ubuntu-iso-remix) |
 | [demo-debian-iso-remix](https://github.com/samwhelp/demo-debian-iso-remix) |
 
@@ -228,19 +228,21 @@ Here are some ideas to get you started:
 ## Adjustment
 
 | Adjustment | GitHub |
-| --- | --- |
+| ---------- | ------ |
 | [Ezarcher Adjustment](https://samwhelp.github.io/ezarcher-adjustment/) | [GitHub](https://github.com/samwhelp/ezarcher-adjustment) |
 | [EznixOS Adjustment](https://samwhelp.github.io/eznixos-adjustment/) | [GitHub](https://github.com/samwhelp/eznixos-adjustment) |
 | [ArchLinux Adjustment](https://samwhelp.github.io/archlinux-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-adjustment) |
 | [Debian Adjustment](https://samwhelp.github.io/debian-adjustment/) | [GitHub](https://github.com/samwhelp/debian-adjustment) |
 | [Fedora Adjustment](https://samwhelp.github.io/fedora-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-adjustment) |
 | [Manjaro Adjustment](https://samwhelp.github.io/manjaro-adjustment/) | [GitHub](https://github.com/samwhelp/manjaro-adjustment) |
+| [Solus Adjustment](https://samwhelp.github.io/solus-adjustment/) | [GitHub](https://github.com/samwhelp/solus-adjustment) |
+| [VoidLinux Adjustment](https://samwhelp.github.io/voidlinux-adjustment/) | [GitHub](https://github.com/samwhelp/voidlinux-adjustment) |
 
 
 
 
 | Adjustment | GitHub |
-| --- | --- |
+| ---------- | ------ |
 | [Ubuntu Adjustment](https://samwhelp.github.io/ubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-adjustment) |
 | [Xubuntu Adjustment](https://samwhelp.github.io/xubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/xubuntu-adjustment) |
 | [Kubuntu Adjustment](https://samwhelp.github.io/kubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/kubuntu-adjustment) |
@@ -254,13 +256,21 @@ Here are some ideas to get you started:
 | [Linux Mint Adjustment](https://samwhelp.github.io/linuxmint-adjustment/) | [GitHub](https://github.com/samwhelp/linuxmint-adjustment) |
 | [Elementary OS Adjustment](https://samwhelp.github.io/elementary-os-adjustment/) | [GitHub](https://github.com/samwhelp/elementary-os-adjustment) |
 | [Popos Cosmic Adjustment](https://samwhelp.github.io/popos-cosmic-adjustment/) | [GitHub](https://github.com/samwhelp/popos-cosmic-adjustment) |
+
+
+
+
+| Adjustment | GitHub |
+| ---------- | ------ |
+| [Paruds Adjustment](https://samwhelp.github.io/pardus-adjustment/) | [GitHub](https://github.com/samwhelp/archcraft-adjustment) |
+| [Brgvos Adjustment](https://samwhelp.github.io/brgvos-adjustment/) | [GitHub](https://github.com/samwhelp/brgvos-adjustment) |
 | [AnduinOS Adjustment](https://samwhelp.github.io/anduinos-adjustment/) | [GitHub](https://github.com/samwhelp/anduinos-adjustment) |
 
 
 
 
 | Adjustment | GitHub |
-| --- | --- |
+| ---------- | ------ |
 | [Fedora Adjustment](https://samwhelp.github.io/fedora-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-adjustment) |
 | [Fedora Xfce Adjustment](https://samwhelp.github.io/fedora-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-xfce-adjustment) |
 | [Fedora Lxqt Adjustment](https://samwhelp.github.io/fedora-lxqt-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-lxqt-adjustment) |
@@ -278,7 +288,7 @@ Here are some ideas to get you started:
 
 
 | Adjustment | GitHub |
-| --- | --- |
+| ---------- | ------ |
 | [BunsenLabs Adjustment](https://samwhelp.github.io/bunsenlabs-adjustment/) | [GitHub](https://github.com/samwhelp/bunsenlabs-adjustment) |
 | [Mabox Adjustment](https://samwhelp.github.io/mabox-adjustment/) | [GitHub](https://github.com/samwhelp/mabox-adjustment) |
 | [Archcraft Adjustment](https://samwhelp.github.io/archcraft-adjustment/) | [GitHub](https://github.com/samwhelp/archcraft-adjustment) |
@@ -287,7 +297,7 @@ Here are some ideas to get you started:
 
 
 | Adjustment | GitHub |
-| --- | --- |
+| ---------- | ------ |
 | [Kde Neon Adjustment](https://samwhelp.github.io/kde-neon-adjustment/) | [GitHub](https://github.com/samwhelp/kde-neon-adjustment) |
 | [BigLinux Adjustment](https://samwhelp.github.io/biglinux-adjustment/) | [GitHub](https://github.com/samwhelp/biglinux-adjustment) |
 | [XeroLinux Adjustment](https://samwhelp.github.io/xerolinux-adjustment/) | [GitHub](https://github.com/samwhelp/xerolinux-adjustment) |
@@ -298,7 +308,7 @@ Here are some ideas to get you started:
 ## Develop
 
 | Develop | GitHub |
-| --- | --- |
+| ------- | ------ |
 | [note-about-menu-applet](https://samwhelp.github.io/note-about-menu-applet/) | [GitHub](https://github.com/samwhelp/note-about-menu-applet) |
 | [skel-project-plan](https://samwhelp.github.io/skel-project-plan/) | [GitHub](https://github.com/samwhelp/skel-project-plan) |
 
@@ -308,7 +318,7 @@ Here are some ideas to get you started:
 ## Tool
 
 | Tool | GitHub |
-| --- | --- |
+| ---- | ------ |
 | [tool-initramfs-extract](https://samwhelp.github.io/tool-initramfs-extract/) | [GitHub](https://github.com/samwhelp/tool-initramfs-extract) |
 | [tool-lxqt-control](https://samwhelp.github.io/tool-lxqt-control/) | [GitHub](https://github.com/samwhelp/tool-lxqt-control) |
 
@@ -318,7 +328,7 @@ Here are some ideas to get you started:
 ## Forum
 
 | Forum | GitHub |
-| --- | --- |
+| ----- | ------ |
 | [demo-forum-case](https://samwhelp.github.io/demo-forum-case/) | [GitHub](https://github.com/samwhelp/demo-forum-case) |
 
 
@@ -327,7 +337,7 @@ Here are some ideas to get you started:
 ## Theme Note
 
 | Theme Note | GitHub |
-| --- | --- |
+| ---------- | ------ |
 | [note-about-theme](https://samwhelp.github.io/note-about-theme/) | [GitHub](https://github.com/samwhelp/note-about-theme) |
 | [note-about-grub](https://samwhelp.github.io/note-about-grub/) | [GitHub](https://github.com/samwhelp/note-about-grub) |
 | [note-about-sddm](https://samwhelp.github.io/note-about-sddm/) | [GitHub](https://github.com/samwhelp/note-about-sddm) |
@@ -338,7 +348,7 @@ Here are some ideas to get you started:
 ## Theme Collection
 
 | Theme Collection | GitHub |
-| --- | --- |
+| ---------------- | ------ |
 | [rgaps-theme-collection](https://samwhelp.github.io/rgaps-theme-collection/) | [GitHub](https://github.com/samwhelp/rgaps-theme-collection) |
 | [gruvbox-theme-collection](https://samwhelp.github.io/gruvbox-theme-collection/) | [GitHub](https://github.com/samwhelp/gruvbox-theme-collection) |
 | [numix-theme-collection](https://samwhelp.github.io/numix-theme-collection/) | [GitHub](https://github.com/samwhelp/numix-theme-collection) |
@@ -349,7 +359,7 @@ Here are some ideas to get you started:
 ## Theme Remix
 
 | Theme Remix | GitHub |
-| --- | --- |
+| ----------- | ------ |
 | [grub-theme-remix](https://samwhelp.github.io/grub-theme-remix/) | [GitHub](https://github.com/samwhelp/grub-theme-remix) |
 | [gruvbox-theme-remix](https://samwhelp.github.io/gruvbox-theme-remix/) | [GitHub](https://github.com/samwhelp/gruvbox-theme-remix) |
 | [citrus-icon-theme-remix](https://samwhelp.github.io/citrus-icon-theme-remix/) | [GitHub](https://github.com/samwhelp/citrus-icon-theme-remix) |
@@ -361,7 +371,7 @@ Here are some ideas to get you started:
 ## Theme Factory
 
 | Theme Factory | GitHub |
-| --- | --- |
+| ------------- | ------ |
 | [theme-factory-vimix](https://samwhelp.github.io/theme-factory-vimix/) | [GitHub](https://github.com/samwhelp/theme-factory-vimix) |
 | [theme-factory-canta](https://samwhelp.github.io/theme-factory-canta/) | [GitHub](https://github.com/samwhelp/theme-factory-canta) |
 
