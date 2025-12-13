@@ -145,6 +145,7 @@ Here are some ideas to get you started:
 
 | BrgvOS / Live Build Config |
 | -------------------------- |
+| [brgvos-void](https://github.com/samwhelp/brgvos-void) |
 | [brgvos-live-build-config-start](https://github.com/samwhelp/brgvos-live-build-config-develop) |
 | [brgvos-live-build-config-develop](https://github.com/samwhelp/brgvos-live-build-config-develop) |
 
