@@ -143,7 +143,7 @@ Here are some ideas to get you started:
 | [voidlinux-live-build-config-respin-xfce](https://github.com/samwhelp/voidlinux-live-build-config-respin-xfce) |
 
 
-| Brgvos / Live Build Config |
+| BrgvOS / Live Build Config |
 | -------------------------- |
 | [brgvos-live-build-config-start](https://github.com/samwhelp/brgvos-live-build-config-develop) |
 | [brgvos-live-build-config-develop](https://github.com/samwhelp/brgvos-live-build-config-develop) |
