@@ -141,6 +141,8 @@ Here are some ideas to get you started:
 | [voidlinux-live-build-config-develop](https://github.com/samwhelp/voidlinux-live-build-config-develop) |
 | [voidlinux-live-build-config-collection](https://github.com/samwhelp/voidlinux-live-build-config-collection) |
 | [voidlinux-live-build-config-respin-xfce](https://github.com/samwhelp/voidlinux-live-build-config-respin-xfce) |
+| [voidlinux-live-build-config-respin-kde-plasma](https://github.com/samwhelp/voidlinux-live-build-config-respin-kde-plasma) |
+| [voidlinux-live-build-config-respin-gnome-shell](https://github.com/samwhelp/voidlinux-live-build-config-respin-gnome-shell) |
 
 
 | BrgvOS / Live Build Config |
