@@ -75,10 +75,19 @@ Here are some ideas to get you started:
 
 
 
-## Kde Resource
+## Gnome Shell Resource
 
-| Kde Resource |
-| ------------ |
+| Gnome Shell Resource |
+| -------------------- |
+| [gnome-shell-enhance](https://github.com/samwhelp/gnome-shell-enhance) |
+
+
+
+
+## Kde Plasma Resource
+
+| Kde Plasma Resource |
+| ------------------- |
 | [kde-plasma-layout-templates](https://github.com/samwhelp/kde-plasma-layout-templates) |
 | [kde-plasma-look-and-feel](https://github.com/samwhelp/kde-plasma-look-and-feel) |
 | [kde-plasma-layout-switch](https://github.com/samwhelp/kde-plasma-layout-switch) |
