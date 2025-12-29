@@ -152,6 +152,7 @@ Here are some ideas to get you started:
 | [voidlinux-live-build-config-respin-xfce](https://github.com/samwhelp/voidlinux-live-build-config-respin-xfce) |
 | [voidlinux-live-build-config-respin-kde-plasma](https://github.com/samwhelp/voidlinux-live-build-config-respin-kde-plasma) |
 | [voidlinux-live-build-config-respin-gnome-shell](https://github.com/samwhelp/voidlinux-live-build-config-respin-gnome-shell) |
+| [voidlinux-live-build-config-respin-gnome-shell-enhance](https://github.com/samwhelp/voidlinux-live-build-config-respin-gnome-shell-enhance) |
 | [voidlinux-live-build-config-respin-cinnamon](https://github.com/samwhelp/voidlinux-live-build-config-respin-cinnamon) |
 | [voidlinux-live-build-config-respin-mate](https://github.com/samwhelp/voidlinux-live-build-config-respin-mate) |
 | [voidlinux-live-build-config-respin-lxqt](https://github.com/samwhelp/voidlinux-live-build-config-respin-lxqt) |
