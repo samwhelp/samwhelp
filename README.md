@@ -159,13 +159,6 @@ Here are some ideas to get you started:
 | [voidlinux-live-build-config-respin-lxde](https://github.com/samwhelp/voidlinux-live-build-config-respin-lxde) |
 
 
-| BrgvOS / Live Build Config |
-| -------------------------- |
-| [brgvos-void](https://github.com/samwhelp/brgvos-void) / [source](https://github.com/florintanasa/brgvos-void) |
-| brgvos-void / [refactoring-main](https://github.com/samwhelp/brgvos-void/tree/refactoring-main) |
-| brgvos-void / [refactoring-mykeybind](https://github.com/samwhelp/brgvos-void/tree/refactoring-mykeybind) |
-
-
 | Ubuntu ISO Builder |
 | ------------------ |
 | [ubuntu-iso-builder-respin-gnome-shell](https://github.com/samwhelp/ubuntu-iso-builder-respin-gnome-shell) |
