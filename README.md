@@ -92,6 +92,11 @@ Here are some ideas to get you started:
 | Gnome Shell Resource |
 | -------------------- |
 | [gnome-shell-enhance](https://github.com/samwhelp/gnome-shell-enhance) |
+| [make-ubuntu-look-like-anduinos](https://github.com/samwhelp/make-ubuntu-look-like-anduinos) |
+| [make-debian-look-like-anduinos](https://github.com/samwhelp/make-debian-look-like-anduinos) |
+| [make-fedora-look-like-anduinos](https://github.com/samwhelp/make-fedora-look-like-anduinos) |
+| [make-archlinux-look-like-anduinos](https://github.com/samwhelp/make-archlinux-look-like-anduinos) |
+| [make-voidlinux-look-like-anduinos](https://github.com/samwhelp/make-voidlinux-look-like-anduinos) |
 
 
 
