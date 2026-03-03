@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 * [Bashrc](#bashrc)
 * [System Modeling](#system-modeling)
 * [Docker Image](#docker-image)
+* [Xfce Resource](#xfce-resource)
 * [Gnome Shell Resource](#gnome-shell-resource)
 * [Kde Plasma Resource](#kde-plasma-resource)
 * [Debian Packaging](#debian-packaging)
@@ -86,6 +87,15 @@ Here are some ideas to get you started:
 | [distro-iso-builder-docker-image](https://github.com/samwhelp/distro-iso-builder-docker-image) |
 | [debian-docker-image](https://github.com/samwhelp/debian-docker-image) |
 | [ubuntu-docker-image](https://github.com/samwhelp/ubuntu-docker-image) |
+
+
+
+
+## Xfce Resource
+
+| Xfce Resource |
+| -------------------- |
+| [make-xfce-style](https://github.com/samwhelp/make-xfce-style) |
 
 
 
