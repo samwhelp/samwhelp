@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 * [Bashrc](#bashrc)
 * [System Modeling](#system-modeling)
 * [Docker Image](#docker-image)
+* [Style Management](#style-management)
 * [Xfce Resource](#xfce-resource)
 * [Gnome Shell Resource](#gnome-shell-resource)
 * [Kde Plasma Resource](#kde-plasma-resource)
@@ -91,10 +92,23 @@ Here are some ideas to get you started:
 
 
 
+## Style Management
+
+| Style Management |
+| ---------------- |
+| [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
+| [make-gnome-shell-style](https://github.com/samwhelp/make-gnome-shell-style) |
+| [make-xfce-style](https://github.com/samwhelp/make-xfce-style) |
+| [make-mate-style](https://github.com/samwhelp/make-mate-style) |
+| [make-cinnamon-style](https://github.com/samwhelp/make-cinnamon-style) |
+
+
+
+
 ## Xfce Resource
 
 | Xfce Resource |
-| -------------------- |
+| ------------- |
 | [make-xfce-style](https://github.com/samwhelp/make-xfce-style) |
 
 
@@ -105,6 +119,7 @@ Here are some ideas to get you started:
 | Gnome Shell Resource |
 | -------------------- |
 | [gnome-shell-enhance](https://github.com/samwhelp/gnome-shell-enhance) |
+| [make-gnome-shell-style](https://github.com/samwhelp/make-gnome-shell-style) |
 | [make-gnome-shell-layout-maccity](https://github.com/samwhelp/make-gnome-shell-layout-maccity) |
 | [make-gnome-shell-layout-wincity](https://github.com/samwhelp/make-gnome-shell-layout-wincity) |
 | [make-ubuntu-look-like-anduinos](https://github.com/samwhelp/make-ubuntu-look-like-anduinos) |
