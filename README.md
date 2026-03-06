@@ -101,6 +101,7 @@ Here are some ideas to get you started:
 | [make-xfce-style](https://github.com/samwhelp/make-xfce-style) |
 | [make-mate-style](https://github.com/samwhelp/make-mate-style) |
 | [make-cinnamon-style](https://github.com/samwhelp/make-cinnamon-style) |
+| [make-budgie-style](https://github.com/samwhelp/make-budgie-style) |
 
 
 
