@@ -123,6 +123,10 @@ Here are some ideas to get you started:
 | [make-gnome-shell-style](https://github.com/samwhelp/make-gnome-shell-style) |
 | [make-gnome-shell-layout-maccity](https://github.com/samwhelp/make-gnome-shell-layout-maccity) |
 | [make-gnome-shell-layout-wincity](https://github.com/samwhelp/make-gnome-shell-layout-wincity) |
+
+
+| Gnome Shell Resource |
+| -------------------- |
 | [make-ubuntu-look-like-anduinos](https://github.com/samwhelp/make-ubuntu-look-like-anduinos) |
 | [make-debian-look-like-anduinos](https://github.com/samwhelp/make-debian-look-like-anduinos) |
 | [make-fedora-look-like-anduinos](https://github.com/samwhelp/make-fedora-look-like-anduinos) |
