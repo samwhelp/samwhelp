@@ -204,7 +204,8 @@ Here are some ideas to get you started:
 | [voidlinux-live-build-config-respin-xfce](https://github.com/samwhelp/voidlinux-live-build-config-respin-xfce) |
 | [voidlinux-live-build-config-respin-kde-plasma](https://github.com/samwhelp/voidlinux-live-build-config-respin-kde-plasma) |
 | [voidlinux-live-build-config-respin-gnome-shell](https://github.com/samwhelp/voidlinux-live-build-config-respin-gnome-shell) |
-| [voidlinux-live-build-config-respin-gnome-shell-enhance](https://github.com/samwhelp/voidlinux-live-build-config-respin-gnome-shell-enhance) |
+| [voidlinux-live-build-config-respin-gnome-shell-layout-maccity](https://github.com/samwhelp/voidlinux-live-build-config-respin-gnome-shell-layout-maccity) |
+| [voidlinux-live-build-config-respin-gnome-shell-layout-wincity](https://github.com/samwhelp/voidlinux-live-build-config-respin-gnome-shell-layout-wincity) |
 | [voidlinux-live-build-config-respin-cinnamon](https://github.com/samwhelp/voidlinux-live-build-config-respin-cinnamon) |
 | [voidlinux-live-build-config-respin-mate](https://github.com/samwhelp/voidlinux-live-build-config-respin-mate) |
 | [voidlinux-live-build-config-respin-lxqt](https://github.com/samwhelp/voidlinux-live-build-config-respin-lxqt) |
@@ -214,6 +215,8 @@ Here are some ideas to get you started:
 | Ubuntu ISO Builder |
 | ------------------ |
 | [ubuntu-iso-builder-respin-gnome-shell](https://github.com/samwhelp/ubuntu-iso-builder-respin-gnome-shell) |
+| [ubuntu-iso-builder-include-pacstall-gnome-shell-layout-wincity](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-gnome-shell-layout-wincity) |
+| [ubuntu-iso-builder-include-pacstall-gnome-shell-layout-maccity](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-gnome-shell-layout-maccity) |
 | [ubuntu-iso-builder-respin-kde-plasma](https://github.com/samwhelp/ubuntu-iso-builder-respin-kde-plasma) |
 | [ubuntu-iso-builder-respin-xfce](https://github.com/samwhelp/ubuntu-iso-builder-respin-xfce) |
 | [ubuntu-iso-builder-respin-lxqt](https://github.com/samwhelp/ubuntu-iso-builder-respin-lxqt) |
@@ -235,6 +238,8 @@ Here are some ideas to get you started:
 | Debian ISO Builder |
 | ------------------ |
 | [debian-iso-builder-respin-gnome-shell](https://github.com/samwhelp/debian-iso-builder-respin-gnome-shell) |
+| [debian-iso-builder-include-pacstall-gnome-shell-layout-wincity](https://github.com/samwhelp/debian-iso-builder-include-pacstall-gnome-shell-layout-wincity) |
+| [debian-iso-builder-include-pacstall-gnome-shell-layout-maccity](https://github.com/samwhelp/debian-iso-builder-include-pacstall-gnome-shell-layout-maccity) |
 | [debian-iso-builder-respin-kde-plasma](https://github.com/samwhelp/debian-iso-builder-respin-kde-plasma) |
 | [debian-iso-builder-respin-xfce](https://github.com/samwhelp/debian-iso-builder-respin-xfce) |
 | [debian-iso-builder-respin-lxqt](https://github.com/samwhelp/debian-iso-builder-respin-lxqt) |
