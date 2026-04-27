@@ -4,7 +4,7 @@
 
 > **I recently decided to spend most of my time taking care of my real life.**
 > Therefore, these projects will not be modified in the short term to conform to the new version.
-> Keep it only as a learning reference.
+> I'm keeping these projects only for personal study and reference.
 
 
 
