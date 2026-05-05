@@ -134,13 +134,14 @@ Here are some ideas to get you started:
 | [make-gnome-shell-layout-wincity](https://github.com/samwhelp/make-gnome-shell-layout-wincity) |
 
 
-| Gnome Shell Resource |
-| -------------------- |
+| make Gnome Shell look like AnduinOS |
+| ----------------------------------- |
 | [make-ubuntu-look-like-anduinos](https://github.com/samwhelp/make-ubuntu-look-like-anduinos) |
 | [make-debian-look-like-anduinos](https://github.com/samwhelp/make-debian-look-like-anduinos) |
 | [make-fedora-look-like-anduinos](https://github.com/samwhelp/make-fedora-look-like-anduinos) |
 | [make-archlinux-look-like-anduinos](https://github.com/samwhelp/make-archlinux-look-like-anduinos) |
 | [make-voidlinux-look-like-anduinos](https://github.com/samwhelp/make-voidlinux-look-like-anduinos) |
+| [make-solus-look-like-anduinos](https://github.com/samwhelp/make-solus-look-like-anduinos) |
 
 
 
