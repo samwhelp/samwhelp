@@ -182,7 +182,20 @@ Here are some ideas to get you started:
 
 | ISO Builder |
 | ----------- |
+| [debian-live-custom-template](https://github.com/samwhelp/debian-live-custom-template) |
 | [ubuntu-live-custom-template](https://github.com/samwhelp/ubuntu-live-custom-template) |
+| [anduinso-live-custom-template](https://github.com/samwhelp/anduinos-live-custom-template) |
+| [linuxmint-live-custom-template](https://github.com/samwhelp/linuxmint-live-custom-template) |
+| [lmde-live-custom-template](https://github.com/samwhelp/lmde-live-custom-template) |
+
+
+| ISO Builder |
+| ----------- |
+| [debian-live-create-template](https://github.com/samwhelp/debian-live-create-template) |
+| [ubuntu-live-create-template](https://github.com/samwhelp/ubuntu-live-create-template) |
+| [anduinso-live-create-template](https://github.com/samwhelp/anduinos-live-create-template) |
+| [linuxmint-live-create-template](https://github.com/samwhelp/linuxmint-live-create-template) |
+| [lmde-live-create-template](https://github.com/samwhelp/lmde-live-create-template) |
 
 
 | ISO Builder |
