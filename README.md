@@ -180,8 +180,8 @@ Here are some ideas to get you started:
 
 ## ISO Profile
 
-| ISO Builder |
-| ----------- |
+| ISO Builder Template |
+| -------------------- |
 | [debian-live-custom-template](https://github.com/samwhelp/debian-live-custom-template) |
 | [ubuntu-live-custom-template](https://github.com/samwhelp/ubuntu-live-custom-template) |
 | [anduinso-live-custom-template](https://github.com/samwhelp/anduinos-live-custom-template) |
@@ -189,8 +189,8 @@ Here are some ideas to get you started:
 | [lmde-live-custom-template](https://github.com/samwhelp/lmde-live-custom-template) |
 
 
-| ISO Builder |
-| ----------- |
+| ISO Builder Template |
+| -------------------- |
 | [debian-live-create-template](https://github.com/samwhelp/debian-live-create-template) |
 | [ubuntu-live-create-template](https://github.com/samwhelp/ubuntu-live-create-template) |
 | [anduinso-live-create-template](https://github.com/samwhelp/anduinos-live-create-template) |
@@ -198,13 +198,17 @@ Here are some ideas to get you started:
 | [lmde-live-create-template](https://github.com/samwhelp/lmde-live-create-template) |
 
 
-| ISO Builder |
-| ----------- |
+| ISO Builder Template |
+| -------------------- |
 | [debian-iso-builder-template](https://github.com/samwhelp/debian-iso-builder-template) |
 | [ubuntu-iso-builder-template](https://github.com/samwhelp/ubuntu-iso-builder-template) |
 | [anduinos-iso-builder-template](https://github.com/samwhelp/anduinos-iso-builder-template) |
 | [linuxmint-iso-builder-template](https://github.com/samwhelp/linuxmint-iso-builder-template) |
 | [lmde-iso-builder-template](https://github.com/samwhelp/lmde-iso-builder-template) |
+
+
+| ISO Builder |
+| ----------- |
 | [gxde-iso-builder-enhance](https://github.com/samwhelp/gxde-iso-builder-enhance) |
 | [debian-iso-builder-start](https://github.com/samwhelp/debian-iso-builder-start) |
 
