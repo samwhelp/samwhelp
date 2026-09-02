@@ -187,6 +187,7 @@ Here are some ideas to get you started:
 | [anduinso-live-custom-template](https://github.com/samwhelp/anduinos-live-custom-template) |
 | [linuxmint-live-custom-template](https://github.com/samwhelp/linuxmint-live-custom-template) |
 | [lmde-live-custom-template](https://github.com/samwhelp/lmde-live-custom-template) |
+| [pardus-live-custom-template](https://github.com/samwhelp/pardus-live-custom-template) |
 
 
 | ISO Builder Template |
